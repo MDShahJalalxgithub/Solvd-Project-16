@@ -1,0 +1,17 @@
+<students>
+    <student id="1">
+        <name>Ivan</name>
+        <age>18</age>
+        <car>
+            <model>BMW</model>
+
+        </car>
+    </student>
+    <student id="2">
+        <name>Anna</name>
+        <age>20</age>
+        <car>
+            <model>Audi</model>
+        </car>
+    </student>
+</students>

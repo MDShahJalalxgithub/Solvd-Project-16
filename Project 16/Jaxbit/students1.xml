@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="1">
+        <car>
+            <model>GLEE</model>
+        </car>
+        <name>Ivan</name>
+        <age>30</age>
+        <date>2024-10-17</date>
+    </student>
+    <student id="2">
+        <car>
+            <model>Subaru</model>
+        </car>
+        <name>Palka</name>
+        <age>20</age>
+        <date>2024-10-17</date>
+    </student>
+</students>
